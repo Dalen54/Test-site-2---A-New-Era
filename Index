@@ -1,7 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>My Game Codes</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AXY Game Site</title>
 </head>
 <body>
   <h1>AXY GAME SITE</h1>
@@ -15,17 +17,7 @@
     <li><a href="blackj.html" target="_blank">Black Jack</a></li>
     <li><a href="serf.html" target="_blank">Subway Surfers</a></li>
     <li><a href="cow.html" target="_blank">Crazy Cattle 3D</a></li>
-    <li><a href=".html" target="_blank">Game</a></li>
-    <li><a href=".html" target="_blank">Game</a></li>
-    <li><a href=".html" target="_blank">Game</a></li>
-    <li><a href=".html" target="_blank">Game</a></li>
-    <li><a href=".html" target="_blank">Game</a></li>
-    <li><a href=".html" target="_blank">Game</a></li>
-    <li><a href=".html" target="_blank">Game</a></li>
-    <li><a href=".html" target="_blank">Game</a></li>
-    <li><a href=".html" target="_blank">Game</a></li>
-    <li><a href=".html" target="_blank">Game</a></li>
-    <li><a href=".html" target="_blank">Game</a></li>
+    <!-- Removed broken empty links -->
   </ul>
 </body>
 </html>
